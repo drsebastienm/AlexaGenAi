@@ -1,0 +1,247 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "chat",
+          "summary": "Generative AI in Alexa",
+          "description": "Alexa skill that uses LLM models via the OpenAI API to generate intelligent and context-aware responses",
+          "examplePhrases": [
+            "Alexa start conversation"
+          ],
+          "keywords": [
+            "AI",
+            "artificial intelligence",
+            "dialogue",
+            "reasoning",
+            "LLM"
+          ]
+        },
+        "en-GB": {
+          "name": "chat",
+          "summary": "Generative AI in Alexa",
+          "description": "Alexa skill that uses LLM models via the OpenAI API to generate intelligent and context-aware responses",
+          "examplePhrases": [
+            "Alexa start conversation"
+          ],
+          "keywords": [
+            "AI",
+            "artificial intelligence",
+            "dialogue",
+            "reasoning",
+            "LLM"
+          ]
+        },
+        "en-CA": {
+          "name": "chat",
+          "summary": "Generative AI in Alexa",
+          "description": "Alexa skill that uses LLM models via the OpenAI API to generate intelligent and context-aware responses",
+          "examplePhrases": [
+            "Alexa start conversation"
+          ],
+          "keywords": [
+            "AI",
+            "artificial intelligence",
+            "dialogue",
+            "reasoning",
+            "LLM"
+          ]
+        },
+        "en-IN": {
+          "name": "chat",
+          "summary": "Generative AI in Alexa",
+          "description": "Alexa skill that uses LLM models via the OpenAI API to generate intelligent and context-aware responses",
+          "examplePhrases": [
+            "Alexa start conversation"
+          ],
+          "keywords": [
+            "AI",
+            "artificial intelligence",
+            "dialogue",
+            "reasoning",
+            "LLM"
+          ]
+        },
+        "en-AU": {
+          "name": "chat",
+          "summary": "Generative AI in Alexa",
+          "description": "Alexa skill that uses LLM models via the OpenAI API to generate intelligent and context-aware responses",
+          "examplePhrases": [
+            "Alexa start conversation"
+          ],
+          "keywords": [
+            "AI",
+            "artificial intelligence",
+            "dialogue",
+            "reasoning",
+            "LLM"
+          ]
+        },
+        "es-ES": {
+          "name": "conversación",
+          "summary": "IA generativa en Alexa",
+          "description": "Habilidad de Alexa que utiliza modelos LLM a través de la API de OpenAI para generar respuestas inteligentes y conscientes del contexto",
+          "examplePhrases": [
+            "Alexa inicia conversación"
+          ],
+          "keywords": [
+            "IA",
+            "inteligencia artificial",
+            "diálogo",
+            "razonamiento",
+            "LLM"
+          ]
+        },
+        "es-MX": {
+          "name": "conversación",
+          "summary": "IA generativa en Alexa",
+          "description": "Habilidad de Alexa que utiliza modelos LLM a través de la API de OpenAI para generar respuestas inteligentes y conscientes del contexto",
+          "examplePhrases": [
+            "Alexa inicia conversación"
+          ],
+          "keywords": [
+            "IA",
+            "inteligencia artificial",
+            "diálogo",
+            "razonamiento",
+            "LLM"
+          ]
+        },
+        "es-US": {
+          "name": "conversación",
+          "summary": "IA generativa en Alexa",
+          "description": "Habilidad de Alexa que utiliza modelos LLM a través de la API de OpenAI para generar respuestas inteligentes y conscientes del contexto",
+          "examplePhrases": [
+            "Alexa inicia conversación"
+          ],
+          "keywords": [
+            "IA",
+            "inteligencia artificial",
+            "diálogo",
+            "razonamiento",
+            "LLM"
+          ]
+        },
+        "fr-FR": {
+          "name": "chat",
+          "summary": "IA générative dans Alexa",
+          "description": "Compétence Alexa qui utilise des modèles LLM via l'API OpenAI pour générer des réponses intelligentes et conscientes du contexte",
+          "examplePhrases": [
+            "Alexa démarre la conversation"
+          ],
+          "keywords": [
+            "IA",
+            "intelligence artificielle",
+            "dialogue",
+            "raisonnement",
+            "LLM"
+          ]
+        },
+        "fr-CA": {
+          "name": "chat",
+          "summary": "IA générative dans Alexa",
+          "description": "Compétence Alexa qui utilise des modèles LLM via l'API OpenAI pour générer des réponses intelligentes et conscientes du contexte",
+          "examplePhrases": [
+            "Alexa démarre la conversation"
+          ],
+          "keywords": [
+            "IA",
+            "intelligence artificielle",
+            "dialogue",
+            "raisonnement",
+            "LLM"
+          ]
+        },
+        "ja-JP": {
+          "name": "会話",
+          "summary": "Alexaの生成型AI",
+          "description": "OpenAI APIを介してLLMモデルを使用して、インテリジェントでコンテキストに応じた応答を生成するAlexaスキル",
+          "examplePhrases": [
+            "アレクサ、会話を開始"
+          ],
+          "keywords": [
+            "AI",
+            "人工知能",
+            "対話",
+            "推論",
+            "LLM"
+          ]
+        },
+        "de-DE": {
+          "name": "Unterhaltung",
+          "summary": "Generative KI in Alexa",
+          "description": "Alexa-Skill, der LLM-Modelle über die OpenAI-API verwendet, um intelligente und kontextbezogene Antworten zu generieren",
+          "examplePhrases": [
+            "Alexa starte Unterhaltung"
+          ],
+          "keywords": [
+            "KI",
+            "künstliche Intelligenz",
+            "Dialog",
+            "Schlussfolgerung",
+            "LLM"
+          ]
+        },
+        "it-IT": {
+          "name": "conversazione",
+          "summary": "Intelligenza artificiale generativa in Alexa",
+          "description": "Skill di Alexa che utilizza i modelli LLM tramite l'API di OpenAI per generare risposte intelligenti e consapevoli del contesto",
+          "examplePhrases": [
+            "Alexa avvia conversazione"
+          ],
+          "keywords": [
+            "IA",
+            "intelligenza artificiale",
+            "dialogo",
+            "ragionamento",
+            "LLM"
+          ]
+        },
+        "hi-IN": {
+          "name": "बातचीत",
+          "summary": "एलेक्सा में जेनरेटिव एआई",
+          "description": "एलेक्सा कौशल जो OpenAI API के माध्यम से LLM मॉडल का उपयोग करके बुद्धिमान और संदर्भ-सचेत प्रतिक्रियाएं उत्पन्न करता है",
+          "examplePhrases": [
+            "अलेक्सा बातचीत शुरू करें"
+          ],
+          "keywords": [
+            "एआई",
+            "कृत्रिम बुद्धि",
+            "संवाद",
+            "तर्क",
+            "LLM"
+          ]
+        },
+        "pt-BR": {
+          "name": "conversa",
+          "summary": "IA gerativa na Alexa",
+          "description": "Habilidade Alexa que utiliza modelos LLM através da API OpenAI para gerar respostas inteligentes e conscientes do contexto",
+          "examplePhrases": [
+            "Alexa inicie a conversa"
+          ],
+          "keywords": [
+            "IA",
+            "inteligência artificial",
+            "diálogo",
+            "raciocínio",
+            "LLM"
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda",
+          "uri": "ask-custom-helloworld-classes-default"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
+
+
