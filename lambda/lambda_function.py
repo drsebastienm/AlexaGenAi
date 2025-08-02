@@ -8,9 +8,21 @@ import logging
 import json
 
 from utils import load_system_prompt  # Import function from utils file
+"""
+The system_prompt_file_path = "system_prompt.txt" is used to define the system prompt (also called system message) for your AI assistant.
 
+Purpose:
+
+System prompt tells the AI model how to behave, what role to play, and what guidelines to follow
+
+It's the initial instruction that shapes the AI's personality and response style
+
+For an Alexa skill, it might define how the AI should respond to voice queries
+
+
+"""
 # Load system prompt from file
-system_prompt_file_path = "path/to/your/system_prompt.txt"
+system_prompt_file_path = "system_prompt.txt"
 system_prompt = load_system_prompt(system_prompt_file_path)
 
 # Initialize Bedrock client
